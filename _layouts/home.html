@@ -1,0 +1,134 @@
+---
+layout: default
+---
+
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <h1 class="header center orange-text">{{ site.title }}</h1>
+      <div class="row center">
+        <img class="responsive-img" src="/img/aula.jpg">
+        <h5 class="header col s12 light">{{ content }}</h5>
+      </div>
+      <!--
+      <div class="row center">
+        <a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light orange">Get Started</a>
+      </div>
+      <br><br>
+      -->
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row center">
+      <hr>
+      <h5 class="header col s12 light">Sponsors and supporters</h5>
+      <div class="col s3">
+        <a href="https://www.oelan.nl">
+          <img src="/img/oelan.png" width="220" alt="Oelan">
+        </a>
+      </div>
+      <div class="col s3">
+        <a href="https://www.asml.com">
+          <img src="/img/asml.png" width="220" alt="ASML">
+        </a>
+      </div>
+      <div class="col s3">
+        <a href="https://www.ing.com">
+          <img src="/img/ing.png" width="220" alt="ING">
+        </a>
+      </div>
+      <div class="col s3">
+        <a href="https://www.topdesk.com/">
+          <img src="/img/topdesk.svg" width="220" alt="TOPDesk">
+        </a>
+      </div>
+    </div>
+    <div class="row center">
+      <div class="col s4">
+        <a href="https://www.capgemini.com">
+          <img src="/img/capgemini.svg" width="220" alt="Capgemini">
+        </a>
+      </div>
+      <div class="col s4">
+        <a href="https://www.tudelft.nl">
+          <img src="/img/tud.png" width="220" alt="Delft University of Techonology">
+        </a>
+      </div>
+      <div class="col s4">
+        <a href="https://www.stamp-project.eu">
+          <img src="/img/stamp.svg" width="140" alt="STAMP">
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row center">
+      <hr>
+      <a class="twitter-timeline" data-width="700" data-height="400" data-theme="light" href="https://twitter.com/NLTestdag?ref_src=twsrc%5Etfw">Tweets by NLTestdag</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  </div>
+
+<!--
+  <div class="container">
+    <div class="section">
+
+      <!--   Icon Section
+      <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
+            <h5 class="center">Speeds up development</h5>
+
+            <p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><i class="material-icons">group</i></h2>
+            <h5 class="center">User Experience Focused</h5>
+
+            <p class="light">By utilizing elements and principles of Material Design, we were able to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
+            <h5 class="center">Easy to work with</h5>
+
+            <p class="light">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    </div>
+-->
+
+<!--
+    <div style="background: #ddd">
+    <div class="container last-post">
+    <section>
+        <h5>Latest Post</h5>
+        <ul class="collection">
+        {% for post in site.posts %}
+        <li class="collection-item avatar">
+          {% assign date_format = site.minima.date_format | default: "%m/%d" %}
+          <div class="date-post">{{ post.date | date: date_format }}</div>
+          <span class="title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
+          <p>
+             {{ post.content | truncatewords: 10 }}
+          </p>
+          <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons">navigate_next</i></a>
+        </li>
+        {% endfor %}
+        </ul>
+    </section>
+    </div>
+</div>
+-->
+  </div>
