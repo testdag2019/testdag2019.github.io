@@ -7,14 +7,13 @@ permalink: /organisation/
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
 <div class="section">
-    <h5>The 24th Nederlandse Testdag organization members:</h5>
+    <h5>The 25th Nederlandse Testdag organization members:</h5>
     <p>
       <ul>
-        <li>&#9656; <a href="https://azaidman.github.io">Andy Zaidman</a> (Delft University of Technology)</li>
-        <li>&#9656; <a href="http://www.mauricioaniche.com">Maurício Aniche</a> (Delft University of Technology)</li>
-        <li>&#9656; <a href="http://www.xdevroey.be">Xavier Devroey</a> (Delft University of Technology)</li>
-        <li>&#9656; <a href="http://www.tanjavos.com">Tanja Vos</a> (Open University)</li>
-        <li>&#9656; <a href="https://www.linkedin.com/in/pekkaaho/">Pekka Aho</a> (Open University)</li>
+        <li>&#9656; <a href="https://www.linkedin.com/in/mauricesiteur/">Maurice Siteur</a> (Capgemini)</li>
+        <li>&#9656; <a href="https://www.linkedin.com/in/marceldiepenbroek/">Marcel Diepenbroek</a> (InnSpire)</li>
+        <li>&#9656; <a href="https://www.linkedin.com/in/marceloostveen/">Marcel Oostveen</a> (InnSpire)</li>
+        <li>&#9656; <a href="https://www.linkedin.com/in/basdijkstra/">Bas Dijkstra</a> (On Test Automation)</li>
       </ul>
     </p>
 </div>
