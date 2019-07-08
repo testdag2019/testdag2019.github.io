@@ -6,39 +6,36 @@ permalink: /cfp/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<h5>We're looking to form an exciting program, therefore we are calling for your proposals for:</h5>
-
+<h5>Let's build an exciting program around the central theme "Built-in quality". We're looking for:</h5>
 
 <ul class="collection">
   <li class="collection-item avatar">
     <i class="material-icons circle light-green">airplay</i>
-    <span class="title">Presentations</span>
-      <p>We are expecting different types of presentation proposals: <br/>
-        &#9656; Hot testing topics for a 20 minute presentation. Does your company has some great insight to share? Want to talk about this unbelievable trajectory that we can all learn from? Or perhaps you have a new tool or approach? <br/>
-        &#9656; Overviews of publicly funded research projects on software testing. Present what is being researched in the area of software testing in Europe in your project in a 15 minute presentation. <br/>
-        &#9656; Industry meets academia 5 minutes pitches. Tell in 5 minutes how your academic research results can help companies solve some testing problem. <br/>
-        &#9656; Academia meets industry 5 minutes pitches. Tell in 5 minutes what the testing challenges are that your companies are facing and that you want industry to solve. <br/>
-        &#9656; Bachelor, master or PhD thesis work on software testing, telling about your thesis in 10 minutes. <br/>
+    <span class="title"><i>40 minute presentations. Expect a seated audience in a conference room setting.</i></span> <br/>
+      <p>We are looking for different types of presentation proposals: <br/>
+        &#9656; This could be a presentation about your testing methods, test techniques, new insights or test tools and experiences gained in your test projects. All consultants, project managers or quality managers and test strategists: please share your thoughts and experiences on how to achieve built-in quality.<br/>
+        &#9656; Present the research project you are working on. All bachelor, master or Ph.D. students are explicitly invited to share their test research results. Even if the thesis is not ready for publication yet, we invite you to share your findings, to challenge the audience and to get feedback from your peers. <br/>
       </p>
   </li>
   <li class="collection-item avatar">
     <i class="material-icons circle light-green">image</i>
-    <span class="title">Posters</span>
-    <p>If you don’t want to present your work in a session, you can propose a poster. The accepted posters should be printed in A0 and shown at the foyer where the coffee and lunch is served during breaks. Part of the presentation proposals might be invited as a poster.
-    </p>
-  </li>
-  <li class="collection-item avatar">
-    <i class="material-icons circle light-green">laptop</i>
-    <span class="title">Demos</span>
-    <p>The demos are for showing concrete examples of testing, for example tooling. The demos are shown at the foyer where the coffee and lunch is served during breaks.
-    </p>
+    <span class="title"><i>15 minute 'Lightning Talks'. Shorter, more interactive sessions in the central exposition hall.</i></span>
+    <p>These can be discussions on any topic - talks, comments, forecasts and predictions, anything goes, as long as it is related to the conference topic. If you want to demonstrate a new tool or technique you are working on and are looking for some honest feedback, this is the place to get it, too!</p>
   </li>
 </ul>
 
+All presentations and test talks can make use of a beamer and audio assistance.
 
 <h5>How to submit:</h5>
-
-Use the form below. Please note the deadline of July 5th, 2018!
+Submit your proposal before September 15, 2019 to <a href="mailto:cfp2019@testdag.nl?Subject=Call%20for%Papers%Testdag%202019">cfp2019@testdag.nl</a>. Please include with your proposal:
+<ul>
+    <li>&#9656; Your full name</li>
+    <li>&#9656; The organization or institute you're working in or for</li> 
+    <li>&#9656; A contact email address</li>
+    <li>&#9656; The title of your presentation. Make us curious!</li>
+    <li>&#9656; A short abstract. Sell us your session!</li>
+    <li>&#9656; Three takeaways people will get from your session. What do we walk away with?</li>
+</ul>
 
 <div class="section">
 <!--<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeJjPWfzJecOiaV0k38PJSUPLeA3h235mirwq1ZHRWcykGMIQ/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>-->
