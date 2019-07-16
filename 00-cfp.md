@@ -6,6 +6,13 @@ permalink: /cfp/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
+<h5>From building quality to built-in quality</h5>
+<p>Applications are being built faster and faster. New functionality is delivered in short iteration, using Scrum, Kanban or eXtreme Programming. Traditional methods of checking and verifying existing functionality, performance and security are no longer effective - and more: they are not fast enough.</p>
+<p>Detecting and fixing errors in software that has already been built or delivered is time-consuming, slow and expensive. If we could prevent errors, we could be far more efficient.</p>
+<p>The focus for Quality Assurance is therefore shifting to earlier phases in the Software Development Cycle - for example, to the software build phase. Modern development platforms with built-in tests and validations, or Citizen Development platforms claim to build software free of bugs. And the focus shifts to even earlier phases – improving the specification and design using TDD or BDD.
+<p>Or yet even earlier: identification of the expectations of end users - for example, by monitoring application usage & transactions in production environments.</p>
+<p>But how can you facilitate and stimulate this shift as an organization? Which processes and (test) tools can guarantee and achieve built-in quality? How do you ensure that systems meet the (unspoken and changing) expectations of end users? What can Machine Learning and AI add to modern quality assurance? And what does this mean for our role as testers?</p>
+
 <h5>Let's build an exciting program around the central theme "Built-in quality". We're looking for:</h5>
 
 <ul class="collection">
@@ -13,8 +20,8 @@ permalink: /cfp/
     <i class="material-icons circle light-green">airplay</i>
     <span class="title"><i>40 minute presentations. Expect a seated audience in a conference room setting.</i></span> <br/>
       <p>We are looking for different types of presentation proposals: <br/>
-        &#9656; This could be a presentation about your testing methods, test techniques, new insights or test tools and experiences gained in your test projects. All consultants, project managers or quality managers and test strategists: please share your thoughts and experiences on how to achieve built-in quality.<br/>
-        &#9656; Present the research project you are working on. All bachelor, master or Ph.D. students are explicitly invited to share their test research results. Even if the thesis is not ready for publication yet, we invite you to share your findings, to challenge the audience and to get feedback from your peers. <br/>
+        &#9656; Presentations about your testing methods, test techniques, new insights or test tools and experiences gained in your test projects.<br/>
+        &#9656; Presentations on the research project you are working on. Even if your thesis or publication is not ready for publication yet, we invite you to share your findings!<br/>
       </p>
   </li>
   <li class="collection-item avatar">
