@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Previous editions
-permalink: /Previouseditions/
+permalink: /previous-editions/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -10,6 +10,17 @@ permalink: /Previouseditions/
   <div class="module-title">
 	                		
 	                		<ul class="menu">
+	                		<li class="item231 parent">
+                                                    <a href="https://testdag2018.github.io" target="_blank">
+                                                <span class="menuitem">2018 in Delft</span>
+                                            </a></li>
+                                            <li class="item231 parent">                            
+                            <span class="menuitem">2017 in Zwolle</span>
+                            </li>    
+	                		<li class="item231 parent">
+                              <a href="http://www.testdag.nl/nl/index.html" target="_blank">
+                               <span class="menuitem">2016 in Amsterdam</span>
+                               </a></li>
                     <li class="item231 parent">
                         <a href="http://www.testdag.nl/nl/2015-in-eindhoven.html">
                     <span class="menuitem">2015 in Eindhoven</span>
