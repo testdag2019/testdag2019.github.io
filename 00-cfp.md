@@ -6,11 +6,17 @@ permalink: /cfp/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
+<p>The Nederlandse TestDag (Dutch Testing Day) is the only software testing conference in the Netherlands where academics and industry practitioners meet, share ideas and learn from each other to advance the field of software testing.</p>
+
+For the 25th edition of our conference, to be held at the [Capgemini headquarters in Leidsche Rijn, Utrecht](/location), we are looking for your contributions to the programme! 
+
 <h5>From building quality to built-in quality</h5>
 <p>Applications are being built faster and faster. New functionality is delivered in short iteration, using Scrum, Kanban or eXtreme Programming. Traditional methods of checking and verifying existing functionality, performance and security are no longer effective - and more: they are not fast enough.</p>
 <p>Detecting and fixing errors in software that has already been built or delivered is time-consuming, slow and expensive. If we prevent errors, we are far more efficient.</p>
 <p>The focus for Quality Assurance is therefore shifting to earlier phases in the Software Development Cycle - for example, to the software build phase. Modern development platforms with built-in tests and validations, or Citizen Development platforms claim to build software free of bugs. So the focus shifts to even earlier phases – improving the specification and design using TDD or BDD. Or even earlier: identification of the expectations of end users - for example, by monitoring application usage & transactions in production environments.</p>
 <p>Yet how can you facilitate and stimulate this shift as an organization? Which processes and (test) tools can guarantee and achieve built-in quality? How do you ensure that systems meet the (unspoken and changing) expectations of end users? What can Machine Learning and AI add to modern quality assurance? And what does this mean for our role as testers?</p>
+
+<h5>
 
 <h5>Let's build an exciting program around the central theme "Built-in quality". We're looking for:</h5>
 
