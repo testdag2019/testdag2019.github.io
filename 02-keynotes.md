@@ -49,5 +49,5 @@ permalink: /keynotes/
                    <p>You can contact him on Twitter at <a href="https://twitter.com/gavdtas?lang=en" target="_blank">@gavdtas</a>,
     		or on <a href="https://www.linkedin.com/in/geoffreyvdtas" target="_blank">LinkedIn</a>.</p>
     
-    	<p><img class="responsive-img" width="25%" src="/img/geoffrey.png"></p>
+    	<p><img class="responsive-img" width="33%" src="/img/geoffrey.png"></p>
 </div>
