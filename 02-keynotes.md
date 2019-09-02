@@ -51,3 +51,33 @@ permalink: /keynotes/
     
     	<p><img class="responsive-img" width="33%" src="/img/geoffrey.png"></p>
 </div>
+
+<div class="divider"></div>
+
+<div class="section">
+	<h5><a style="color:green" id="keynote3">Ina Schaefer - <i>How to test the universe? - Efficient Testing of Software Product Lines</i></a></h5>
+    
+        <b>Abstract</b>:
+        <p>Software product line engineering has gained considerable momentum in 
+           recent years, both in industry and in academia. A software product line 
+           is a family of software products that share a common set of features. 
+           Software product lines challenge traditional analysis, test and 
+           verification techniques in their quest of ensuring correctness and 
+           reliability of software. Simply creating and testing all products of a 
+           product line is usually not feasible, due to the potentially exponential 
+           number of valid feature combinations. In this talk, I present different 
+           strategies for software product line testing and focus on our recent 
+           work on incremental test case selection and test case prioritization of 
+           efficient product line testing.</p>
+    
+    	<b>Bio:</b><p>Ina Schaefer is full professor and head of the Institute of Software 
+                      Engineering and Automotive Informatics at Technische Universität 
+                      Braunschweig, Germany. She received her PhD in 2008 at Technische 
+                      Universität Kaiserslautern and was a Postdoc at Chalmers University, 
+                      Gothenburg, Sweden. Her research interests include constructive and 
+                      analytic approaches for developing correct software systems, with a 
+                      particular focus on software variability and evolution, as well as 
+                      re-engineering techniques for legacy software systems.</p>
+    
+    	<p><img class="responsive-img" width="30%" src="/img/ina.jpg"></p>
+</div>
