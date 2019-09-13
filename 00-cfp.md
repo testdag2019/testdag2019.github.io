@@ -10,6 +10,8 @@ permalink: /cfp/
 
 For the 25th edition of our conference, to be held at the [Capgemini headquarters in Leidsche Rijn, Utrecht](/location), we are looking for your contributions to the programme! 
 
+<p><b>The Call for Papers is open until Friday, September 27, 5 PM CEST.</b></p>
+
 <h5>From building quality to built-in quality</h5>
 <p>Applications are being built faster and faster. New functionality is delivered in short iteration, using Scrum, Kanban or eXtreme Programming. Traditional methods of checking and verifying existing functionality, performance and security are no longer effective - and more: they are not fast enough.</p>
 <p>Detecting and fixing errors in software that has already been built or delivered is time-consuming, slow and expensive. If we prevent errors, we are far more efficient.</p>
@@ -39,7 +41,7 @@ For the 25th edition of our conference, to be held at the [Capgemini headquarter
 All presentations and test talks can make use of a beamer and audio assistance.
 
 <h5>How to submit:</h5>
-Submit your proposal before September 15, 2019 to <a href="mailto:cfp2019@testdag.nl?Subject=Call%20for%Papers%Testdag%202019">cfp2019@testdag.nl</a>. Please include with your proposal:
+Submit your proposal to <a href="mailto:cfp2019@testdag.nl?Subject=Call%20for%Papers%Testdag%202019">cfp2019@testdag.nl</a>. Please include with your proposal:
 <ul>
     <li>&#9656; Your full name</li>
     <li>&#9656; The organization or institute you're working in or for</li> 
