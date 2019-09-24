@@ -24,9 +24,8 @@ permalink: /organisation/
   <p>
     <ul>
       <li>&#9656; Marielle Stoelinga (Universiteit Twente)</li>
-      <li>&#9656; Teade Punter (Fontys Hogeschool)</li>
-      <li>&#9656; Derk-Jan de Grood (Valori)</li>
-      <li>&#9656; Ronnie van't Westeinde (ASML)</li>
+      <li>&#9656; Tanja Vos (Open Universiteit)</li>
+      <li>&#9656; Maurice Siteur (Capgemini)</li>
     </ul>
   </p>
 </div>
