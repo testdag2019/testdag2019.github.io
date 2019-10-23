@@ -41,7 +41,7 @@ permalink: /sponsors/
         </div>
 		<div class="row">
         	<div class="col s3 center"><a href="https://www.capgemini.com/nl-nl/" target="_blank"><img src="/img/capgemini.svg" width="220" alt="Capgemini"></a></div>
-        	<div class="col s6 left-align">Als wereldwijd marktleider op het gebied van consulting, IT-services en digitale transformatie is Capgemini koploper in innovatie. Capgemini is in staat haar klanten te laten profiteren van alle kansen die zich voordoen in de voortdurend veranderende wereld van de cloud, digitale services en platforms. We beschikken over meer dan 50 jaar ervaring en diepgaande, industriespecifieke kennis.</div>
+        	<div class="col s6 left-align">As a global leader in consulting, technology services and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people.</div>
         </div>
 		<div class="row">
         	<div class="col s3 center"><a href="https://www.innspire.nl" target="_blank"><img src="/img/logo-innspire.png" width="120" alt="InnSpire"></a></div>
