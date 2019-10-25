@@ -9,7 +9,7 @@ permalink: /sponsors/
 <div class="section">
 		<div class="row">
 			<div class="col s3 center"><a href="https://www.bartosz.nl/" target="_blank"><img src="/img/bartosz.jpg" width="220" alt="Bartosz"></a></div>
-			<div class="col s6 left-align">Wij zijn Bartosz, grensverleggend specialist in software testen en testmanagement. Elke dag brengen we mensen, bedrijven en softwaresystemen vérder. Vanuit een onbegrensde drive, kennis van het vak en een voorliefde voor het toevoegen van waarde. Voor ons is ICT-dienstverlening een ambacht. Mensenwerk in het digitale tijdperk.</div>
+			<div class="col s6 left-align">Wij zijn Bartosz, grensverleggend specialist in software testen. Elke dag brengen we mensen, bedrijven en softwaresystemen vérder. Vanuit een onbegrensde drive, kennis van het vak en een voorliefde voor het toevoegen van waarde. We werken vanuit onze kantoren in Veenendaal en Den Haag voor de top 250 van Nederlandse bedrijven. Voor hen zetten onze toegewijde testconsultants nèt dat stapje extra.</div>
 		</div>
 		<div class="row">
         	<div class="col s3 center"><a href="https://www.cimsolutions.nl/" target="_blank"><img src="/img/cimsolutions.png" width="220" alt="Cimsolutions"></a></div>
@@ -33,7 +33,7 @@ permalink: /sponsors/
         </div>
 		<div class="row">
         	<div class="col s3 center"><a href="https://www.valori.nl/" target="_blank"><img src="/img/valori.jpg" width="120" alt="Valori"></a></div>
-        	<div class="col s6 left-align">Valori beoordeelt systemen op risico’s en weeffouten. Wij willen meer uit mensen en systemen halen om innovaties te laten slagen. Zodat organisaties en mensen kunnen innoveren en optimaliseren en zo een stap vooruit kunnen zetten op de weg naar nieuwe successen. Dit doen we sinds 1989 door het leveren van ‘state of the art’ oplossingen op het gebied van Quality Assurance & Testing met een groep gedreven experts.</div>
+        	<div class="col s6 left-align">Since 1989, Valori is the number-one independent Quality Assurance and testing company in the Netherlands. Employing a team of 200 consultants who test innovations throughout Europe and make sure they are accepted.</div>
         </div>
 		<div class="row">
         	<div class="col s3 center"><a href="https://www.xebia.com/" target="_blank"><img src="/img/xebia.png" width="220" alt="Xebia"></a></div>
