@@ -39,7 +39,7 @@ permalink: /program/
 			<div class="col s1 right-align"><b>11:55</b></div>
 			<div class="col s3"><b>Yang Liu</b> (Booking.com): Automatic test verification</div>
 			<div class="col s3"><b>Pekka Aho</b> (Open University): Scriptless test automation through GUI - script less and test more!</div>
-			<div class="col s3"><b>Peter Lichtenveldt</b> (ING): Killing mutants with test data<br/><b>Job van den Berg</b> (Valori): Bring Gherkin to the common folk!</div>
+			<div class="col s3"><b>Peter Lichtenveldt</b> (ING): Killing mutants with test data<br/><b>Job van den Berg</b> (Valori): Bring Gherkin to the common folk!<br/><b>Maurice Siteur</b> (Capgemini): Are we still educating all-round testers?</div>
 		</div>
 		<div class="row">
             <div class="col s1 right-align"><b>12:40</b></div>
