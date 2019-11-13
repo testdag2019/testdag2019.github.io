@@ -53,7 +53,7 @@ permalink: /program/
 			<div class="col s1 right-align"><b>14:30</b></div>
 			<div class="col s3"><b>Anaïs van Asselt</b> (Capgemini): Robot Framework Rainbow Cake: implementation in a government organization</div>
 			<div class="col s3"><b>Kenny Baas-Schwegler / João Rosa</b> (Xebia): Improving design and code quality with property-based testing</div>
-			<div class="col s3"><b>Dennis Doomen</b> (Aviva): How to practice TDD without shooting yourself in the foot<br/><b>Eric de Graaf</b> (Alten): How do you test something you cannot see?</div>
+			<div class="col s3"><b>Dennis Doomen</b> (Aviva): How to practice TDD without shooting yourself in the foot<br/><b>Eric de Graaf</b> (Alten): How do you test something you cannot see?<br/><b>Marcel Diepenbroek</b> (InnSpire): Speed & focus! Users automate your tests</div>
 		</div>
 		<div class="row">
             <div class="col s1 right-align"><b>15:15</b></div>
