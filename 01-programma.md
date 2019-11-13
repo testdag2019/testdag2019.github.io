@@ -29,7 +29,7 @@ permalink: /program/
 			<div class="col s1 right-align"><b>10:50</b></div>
 			<div class="col s3"><b>Wendy Zwaaf / Erik Zeedijk</b> (Transavia): Transforming to end-to-end responsible and quality minded teams</div>
 			<div class="col s3"><b>Tom van de Ven</b> (Sogeti): Digital Twin FTW (For The Win)</div>
-			<div class="col s3"><b>Klim Mikhailov</b> (CIMsolutions): Prototypes as tests for information management within large organisations<br/><b>John Kronenberg</b> (CloseSure): Good testers are not good in test automation. So what?</div>
+			<div class="col s3"><b>Klim Mikhailov</b> (CIMsolutions): Prototypes as tests for information management within large organisations<br/><b>John Kronenberg</b> (CloseSure): Good testers are not good in test automation. So what?<br/><b>Egbert Bouman</b> (Valori): F-words for Building in Quality</div>
 		</div>
 		<div class="row">
             <div class="col s1 right-align"><b>11:35</b></div>
