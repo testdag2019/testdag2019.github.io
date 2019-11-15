@@ -9,8 +9,8 @@ permalink: /program/
 <div class="section">
 		<div class="row">
 			<div class="col s1"></div>
-			<div class="col s3 center">Room <b>ROOM 1</b></div>
-			<div class="col s3 center">Room <b>ROOM 2</b></div>
+			<div class="col s3 center">Room <b>MUMBAI</b></div>
+			<div class="col s3 center">Room <b>PARIS</b></div>
 			<div class="col s3 center">Room <b>LIGHTNING TALKS ROOM</b></div>
 		</div>
 		<div class="row">
