@@ -17,7 +17,7 @@ permalink: /sponsors/
         </div>
 		<div class="row">
         	<div class="col s3 center"><a href="https://supportbook.nl/" target="_blank"><img src="/img/supportbook.png" width="220" alt="Supportbook"></a></div>
-        	<div class="col s6 left-align">Succesvolle software is meer dan alleen techniek. Het moet mensen verbinden en in beweging zetten. Het moet eenvoudig zijn en leiden tot een efficiënter en effectiever proces. Supportbook is een krachtig hulpmiddel voor het toetsen, testen en accepteren van al uw wijzigingen in projecten, software en infrastructuur.</div>
+        	<div class="col s6 left-align">Supportbook is thé Testmanagement and Testautomationtool. Supportbook facilitates the progression and (automated) regression tests with an intuitive workflow. It proves being in control, because all the testprocesses are secured in one tool. Implement quickly, easy use and ISO27001 certified.</div>
         </div>
 		<div class="row">
         	<div class="col s3 center"><a href="https://www.testcraft.io/" target="_blank"><img src="/img/testcraft.png" width="220" alt="TestCraft"></a></div>
