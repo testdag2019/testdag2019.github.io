@@ -13,7 +13,7 @@ permalink: /sponsors/
 		</div>
 		<div class="row">
         	<div class="col s3 center"><a href="https://www.cimsolutions.nl/" target="_blank"><img src="/img/cimsolutions.png" width="220" alt="Cimsolutions"></a></div>
-        	<div class="col s6 left-align">Als wereldwijd marktleider op het gebied van consulting, IT-services en digitale transformatie is Capgemini koploper in innovatie. Capgemini is in staat haar klanten te laten profiteren van alle kansen die zich voordoen in de voortdurend veranderende wereld van de cloud, digitale services en platforms. We beschikken over meer dan 50 jaar ervaring en diepgaande, industriespecifieke kennis.</div>
+        	<div class="col s6 left-align">CIMSOLUTIONS provides high-quality IT services and solutions. With the focus on the future, we are constantly innovating. Our goal is to help our customers with the introduction of new IT concepts, methodologies and technologies. Our slogan is therefore: “Learn, create and make it work”.</div>
         </div>
 		<div class="row">
         	<div class="col s3 center"><a href="https://supportbook.nl/" target="_blank"><img src="/img/supportbook.png" width="220" alt="Supportbook"></a></div>
