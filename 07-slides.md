@@ -42,4 +42,7 @@ Want to relive some of the presentations of the 2019 Nederlandse Testdag? Have a
 		<div class="row">
         	<div class="col s9 left-align"><a href="/pdf/john_kronenberg.pdf" target="_blank"><b>John Kronenberg</b> - Good testers are not good in test automation. So what?</a></div>
         </div>
+		<div class="row">
+        	<div class="col s9 left-align"><a href="/pdf/egbert_bouman.pdf" target="_blank"><b>Egbert Bouman</b> - F-words for Building in Quality</a></div>
+        </div>
 </div>
